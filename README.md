@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/brpaz/vscode-file-templates-ext.svg?branch=master)](https://travis-ci.org/brpaz/vscode-file-templates-ext)
 
-[Visual Studio code](https://code.visualstudio.com) extenstion that allows to quickly create new files based on defined templates. 
+[Visual Studio code](https://code.visualstudio.com) extension that allows to quickly create new files based on defined templates. 
 
 Inspired by [this Atom Extension](https://atom.io/packages/file-templates).
 
